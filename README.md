@@ -56,14 +56,6 @@ cross-selling strategies (e.g., a Bike Starter Kit including helmets, gloves and
 success.
 - Also create exclusive product collections to generate interest, such as seasonal or trendy items in clothing. 
 
-### Table of Contents
-- [Project Overview](#project-overview)
-- [Data Sources](data-sources)
-- [Tools](tools)
-- [Data Cleaning/Preparation](data-cleaning/preparation)
-- [Expository Data Analysis](expository-data-analysis)
-- [Results/Findings](results/findings)
-- [Recommendations](recommendations)
 
 
 
