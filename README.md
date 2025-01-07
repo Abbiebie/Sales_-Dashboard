@@ -39,6 +39,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What occupation of customers patronized Robbin’s company the most?
 - What is the total profit actualized during the period?
 
+![Screenshot 2025-01-07 235443](https://github.com/user-attachments/assets/25282b42-b678-4ffc-91cf-b21447f9da8b)
+
 ### Results/Findings
 The analysis results are summarized as follows:
 
