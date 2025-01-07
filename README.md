@@ -1,5 +1,15 @@
 # Sales Performance Analysis
 
+### Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](data-sources)
+- [Tools](tools)
+- [Data Cleaning/Preparation](data-cleaning/preparation)
+- [Expository Data Analysis](expository-data-analysis)
+- [Results/Findings](results/findings)
+- [Recommendations](recommendations)
+
 ### Project Overview
 
 This project aims to provide insight into the sales performance of Robbins Office Supplies over the past years. Using data from 2015-2017, By analyzing various aspects of the sales data, we seek to identify key trends and performance metrics with Power BI to address challenges of low revenues and reduced footfall in specific regions. 
