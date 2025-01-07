@@ -13,6 +13,7 @@
 ### Project Overview
 
 This project aims to provide insight into the sales performance of Robbins Office Supplies over the past years. Using data from 2015-2017, By analyzing various aspects of the sales data, we seek to identify key trends and performance metrics with Power BI to address challenges of low revenues and reduced footfall in specific regions. 
+![Screenshot 2025-01-07 235443](https://github.com/user-attachments/assets/d1df239d-2688-4e8b-9f8d-338be4be5f73)
 
 ### Data Source
 
@@ -38,8 +39,6 @@ EDA involved exploring the sales data to answer key questions, such as:
 - What is the overall Sales trend?
 - What occupation of customers patronized Robbin’s company the most?
 - What is the total profit actualized during the period?
-
-![Screenshot 2025-01-07 235443](https://github.com/user-attachments/assets/25282b42-b678-4ffc-91cf-b21447f9da8b)
 
 ### Results/Findings
 The analysis results are summarized as follows:
